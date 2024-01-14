@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse a String", "..\01. Reverse a String\01. Reverse a String.csproj", "{CA937EBD-FF0A-4638-8BF9-E3960F22771D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA937EBD-FF0A-4638-8BF9-E3960F22771D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA937EBD-FF0A-4638-8BF9-E3960F22771D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA937EBD-FF0A-4638-8BF9-E3960F22771D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA937EBD-FF0A-4638-8BF9-E3960F22771D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD52616D-BA0A-46DF-AFE7-C7E221DA9DB0}
+	EndGlobalSection
+EndGlobal
