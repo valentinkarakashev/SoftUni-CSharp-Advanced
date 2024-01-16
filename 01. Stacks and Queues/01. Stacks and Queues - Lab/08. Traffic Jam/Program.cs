@@ -12,9 +12,9 @@
 
             Queue<string> carsQueue = new Queue<string>();
 
-            while (command != "end") 
+            while (command != "end")
             {
-                if (command == "green") 
+                if (command == "green")
                 {
                     if (carsQueue.Count >= numOfCarsThatCanPass)
                     {

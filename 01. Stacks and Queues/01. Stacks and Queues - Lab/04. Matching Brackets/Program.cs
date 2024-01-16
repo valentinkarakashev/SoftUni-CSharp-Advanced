@@ -21,7 +21,7 @@
 
                     string substring = text.Substring(start, end - start + 1);
                     Console.WriteLine(substring);
-                }        
+                }
             }
         }
     }

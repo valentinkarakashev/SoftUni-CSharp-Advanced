@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZH8fWpbiS/E1PP2pzGoC0ym1kG9jqpk0QaiHUZScUr4fn8oht7KHXmdjxLs8Bb/2pNSUpIthM2b7v6jk9Z5aA==",
+  "dgSpecHash": "Q3T49T/F4h4kwIErBlvBJiR9oj3PugSbBDOGKHtPTsgwf8NDSEbbj6OO75eYI5DqD1MD79wJW/tFsS1+xrYvbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\04. Matching Brackets\\04. Matching Brackets.csproj",
+  "projectFilePath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\04. Matching Brackets\\04. Matching Brackets.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\08. Traffic Jam\\08. Traffic Jam.csproj",
+      "projectUniqueName": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\08. Traffic Jam\\08. Traffic Jam.csproj",
       "projectName": "08. Traffic Jam",
-      "projectPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\08. Traffic Jam\\08. Traffic Jam.csproj",
+      "projectPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\08. Traffic Jam\\08. Traffic Jam.csproj",
       "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\08. Traffic Jam\\obj\\",
+      "outputPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\08. Traffic Jam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",

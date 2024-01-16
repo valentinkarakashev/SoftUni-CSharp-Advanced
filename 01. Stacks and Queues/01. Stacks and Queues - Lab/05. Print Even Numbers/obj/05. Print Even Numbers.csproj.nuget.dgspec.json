@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\05. Print Even Numbers\\05. Print Even Numbers.csproj": {}
+    "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\05. Print Even Numbers\\05. Print Even Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\05. Print Even Numbers\\05. Print Even Numbers.csproj": {
+    "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\05. Print Even Numbers\\05. Print Even Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\05. Print Even Numbers\\05. Print Even Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\05. Print Even Numbers\\05. Print Even Numbers.csproj",
         "projectName": "05. Print Even Numbers",
-        "projectPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\05. Print Even Numbers\\05. Print Even Numbers.csproj",
+        "projectPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\05. Print Even Numbers\\05. Print Even Numbers.csproj",
         "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\05. Print Even Numbers\\obj\\",
+        "outputPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\05. Print Even Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",

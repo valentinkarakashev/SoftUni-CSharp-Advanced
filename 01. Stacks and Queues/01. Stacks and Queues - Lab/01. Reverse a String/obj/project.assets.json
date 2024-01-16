@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\01. Reverse a String\\01. Reverse a String.csproj",
+      "projectUniqueName": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\01. Reverse a String\\01. Reverse a String.csproj",
       "projectName": "01. Reverse a String",
-      "projectPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\01. Reverse a String\\01. Reverse a String.csproj",
+      "projectPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\01. Reverse a String\\01. Reverse a String.csproj",
       "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\01. Reverse a String\\obj\\",
+      "outputPath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\01. Reverse a String\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",

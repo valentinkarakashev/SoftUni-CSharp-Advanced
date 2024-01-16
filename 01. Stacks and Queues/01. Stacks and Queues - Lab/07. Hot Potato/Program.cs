@@ -12,7 +12,7 @@
 
             int round = 1;
 
-            while (players.Count > 1) 
+            while (players.Count > 1)
             {
                 if (round == counting)
                 {

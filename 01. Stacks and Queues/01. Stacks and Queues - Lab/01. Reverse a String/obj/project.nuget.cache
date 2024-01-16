@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/+fJO8Uz2Q0cvqzaaTx8dZKeDcmnvMOfICdPySDgldnY3mcoAgGhhZE0DRP6DbiJ83ZT6tny37NHCr6YdoiXUg==",
+  "dgSpecHash": "yMujvkZS1IacmFJ19ZyEoL/D9VW5uNarrBod7u9JtaBB9UI3l5/1vMjN4DckjIsm456Z6SwDH5yEEYnDPKj5Sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\01. Reverse a String\\01. Reverse a String.csproj",
+  "projectFilePath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\01. Reverse a String\\01. Reverse a String.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

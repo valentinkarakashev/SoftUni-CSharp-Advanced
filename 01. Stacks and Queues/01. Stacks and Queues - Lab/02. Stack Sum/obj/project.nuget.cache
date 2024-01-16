@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HsZlPD8nWb8Oi85/Xw2c3VMWvYt08YykLAG/T3w94IgXZoliOwJq/i3Or4ZcrF6oPNNfBQAyQUX2SxZ9DXoLUg==",
+  "dgSpecHash": "MEAp2i9HF+inv/2L9lkpEIgWTdQAVgFnFY5ghAw4JROEkt13IVNd4WtsXkg4/PgFu8fuh2uWI4DWck7NBHkbag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stack and Queues - Lab\\02. Stack Sum\\02. Stack Sum.csproj",
+  "projectFilePath": "C:\\Users\\valen\\Documents\\GitHub\\SoftUni-CSharp-Advanced\\01. Stacks and Queues\\01. Stacks and Queues - Lab\\02. Stack Sum\\02. Stack Sum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
