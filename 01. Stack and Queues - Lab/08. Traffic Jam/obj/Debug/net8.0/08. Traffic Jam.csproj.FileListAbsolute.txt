@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\bin\Debug\net8.0\08. Traffic Jam.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\bin\Debug\net8.0\08. Traffic Jam.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\bin\Debug\net8.0\08. Traffic Jam.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\bin\Debug\net8.0\08. Traffic Jam.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\bin\Debug\net8.0\08. Traffic Jam.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\obj\Debug\net8.0\08. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\obj\Debug\net8.0\08. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\obj\Debug\net8.0\08. Traffic Jam.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\obj\Debug\net8.0\08. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\obj\Debug\net8.0\08. Traffic Jam.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\obj\Debug\net8.0\08. Traffic Jam.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\obj\Debug\net8.0\refint\08. Traffic Jam.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\obj\Debug\net8.0\08. Traffic Jam.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\obj\Debug\net8.0\08. Traffic Jam.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\08. Traffic Jam\obj\Debug\net8.0\ref\08. Traffic Jam.dll

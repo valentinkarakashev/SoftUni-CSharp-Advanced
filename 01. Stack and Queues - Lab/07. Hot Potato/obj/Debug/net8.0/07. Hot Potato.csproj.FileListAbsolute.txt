@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\bin\Debug\net8.0\07. Hot Potato.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\bin\Debug\net8.0\07. Hot Potato.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\bin\Debug\net8.0\07. Hot Potato.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\bin\Debug\net8.0\07. Hot Potato.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\bin\Debug\net8.0\07. Hot Potato.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\obj\Debug\net8.0\07. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\obj\Debug\net8.0\07. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\obj\Debug\net8.0\07. Hot Potato.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\obj\Debug\net8.0\07. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\obj\Debug\net8.0\07. Hot Potato.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\obj\Debug\net8.0\07. Hot Potato.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\obj\Debug\net8.0\refint\07. Hot Potato.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\obj\Debug\net8.0\07. Hot Potato.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\obj\Debug\net8.0\07. Hot Potato.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\07. Hot Potato\obj\Debug\net8.0\ref\07. Hot Potato.dll

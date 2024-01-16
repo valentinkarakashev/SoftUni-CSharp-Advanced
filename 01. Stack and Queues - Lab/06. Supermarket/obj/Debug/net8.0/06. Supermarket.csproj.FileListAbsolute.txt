@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\bin\Debug\net8.0\06. Supermarket.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\bin\Debug\net8.0\06. Supermarket.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\bin\Debug\net8.0\06. Supermarket.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\bin\Debug\net8.0\06. Supermarket.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\bin\Debug\net8.0\06. Supermarket.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\obj\Debug\net8.0\06. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\obj\Debug\net8.0\06. Supermarket.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\obj\Debug\net8.0\06. Supermarket.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\obj\Debug\net8.0\06. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\obj\Debug\net8.0\06. Supermarket.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\obj\Debug\net8.0\06. Supermarket.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\obj\Debug\net8.0\refint\06. Supermarket.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\obj\Debug\net8.0\06. Supermarket.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\obj\Debug\net8.0\06. Supermarket.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stack and Queues - Lab\06. Supermarket\obj\Debug\net8.0\ref\06. Supermarket.dll
