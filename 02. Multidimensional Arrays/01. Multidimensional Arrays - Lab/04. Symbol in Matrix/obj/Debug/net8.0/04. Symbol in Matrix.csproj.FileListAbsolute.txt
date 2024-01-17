@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\bin\Debug\net8.0\04. Symbol in Matrix.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\refint\04. Symbol in Matrix.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\04. Symbol in Matrix.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\obj\Debug\net8.0\ref\04. Symbol in Matrix.dll
