@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net8.0\05. Fashion Boutique.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net8.0\05. Fashion Boutique.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net8.0\05. Fashion Boutique.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net8.0\05. Fashion Boutique.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net8.0\05. Fashion Boutique.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net8.0\05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net8.0\05. Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net8.0\05. Fashion Boutique.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net8.0\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net8.0\05. Fashion Boutique.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net8.0\05. Fashion Boutique.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net8.0\refint\05. Fashion Boutique.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net8.0\05. Fashion Boutique.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net8.0\05. Fashion Boutique.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net8.0\ref\05. Fashion Boutique.dll

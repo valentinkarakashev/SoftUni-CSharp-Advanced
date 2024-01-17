@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net8.0\06. Songs Queue.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net8.0\06. Songs Queue.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net8.0\06. Songs Queue.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net8.0\06. Songs Queue.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\bin\Debug\net8.0\06. Songs Queue.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net8.0\06. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net8.0\06. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net8.0\06. Songs Queue.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net8.0\06. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net8.0\06. Songs Queue.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net8.0\06. Songs Queue.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net8.0\refint\06. Songs Queue.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net8.0\06. Songs Queue.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net8.0\06. Songs Queue.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\06. Songs Queue\obj\Debug\net8.0\ref\06. Songs Queue.dll

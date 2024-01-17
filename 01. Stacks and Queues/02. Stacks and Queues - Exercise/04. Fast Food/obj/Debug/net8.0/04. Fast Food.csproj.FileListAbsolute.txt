@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net8.0\04. Fast Food.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net8.0\04. Fast Food.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net8.0\04. Fast Food.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net8.0\04. Fast Food.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\bin\Debug\net8.0\04. Fast Food.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net8.0\04. Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net8.0\04. Fast Food.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net8.0\04. Fast Food.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net8.0\04. Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net8.0\04. Fast Food.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net8.0\04. Fast Food.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net8.0\refint\04. Fast Food.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net8.0\04. Fast Food.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net8.0\04. Fast Food.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\01. Stacks and Queues\02. Stacks and Queues - Exercise\04. Fast Food\obj\Debug\net8.0\ref\04. Fast Food.dll
