@@ -27,15 +27,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stacks and Queues - Exercis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Sum Matrix Columns", "..\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\02. Sum Matrix Columns\02. Sum Matrix Columns.csproj", "{9CEBA63D-C79A-4B00-9667-5E1EEDAD6F25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Primary Diagonal", "..\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\03. Primary Diagonal\03. Primary Diagonal.csproj", "{84A9CEEB-5BC9-4876-8F05-C06CA5E4BCC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Primary Diagonal", "..\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\03. Primary Diagonal\03. Primary Diagonal.csproj", "{84A9CEEB-5BC9-4876-8F05-C06CA5E4BCC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Symbol in Matrix", "..\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\04. Symbol in Matrix.csproj", "{BA309C91-8823-4046-8764-DD806F2C6DE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Symbol in Matrix", "..\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\04. Symbol in Matrix\04. Symbol in Matrix.csproj", "{BA309C91-8823-4046-8764-DD806F2C6DE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Square With Maximum Sum", "..\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\05. Square With Maximum Sum\05. Square With Maximum Sum.csproj", "{16B5210E-B9A6-4806-ADED-ED9E9ECCC2DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Square With Maximum Sum", "..\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\05. Square With Maximum Sum\05. Square With Maximum Sum.csproj", "{16B5210E-B9A6-4806-ADED-ED9E9ECCC2DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Jagged-Array Modification", "..\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\06. Jagged-Array Modification\06. Jagged-Array Modification.csproj", "{3C5C1F0D-CD0D-4632-91C7-14E381532F89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Jagged-Array Modification", "..\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\06. Jagged-Array Modification\06. Jagged-Array Modification.csproj", "{3C5C1F0D-CD0D-4632-91C7-14E381532F89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Pascal Triangle", "..\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\07. Pascal Triangle\07. Pascal Triangle.csproj", "{B56E3A0E-4B74-477E-82F3-F943EDC55453}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Pascal Triangle", "..\02. Multidimensional Arrays\01. Multidimensional Arrays - Lab\07. Pascal Triangle\07. Pascal Triangle.csproj", "{B56E3A0E-4B74-477E-82F3-F943EDC55453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Diagonal Difference", "..\02. Multidimensional Arrays\02. Multidimensional Arrays - Exercise\01. Diagonal Difference\01. Diagonal Difference.csproj", "{11267E83-D166-444D-A65B-D0263695928A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Squares in Matrix", "..\02. Multidimensional Arrays\02. Multidimensional Arrays - Exercise\02. Squares in Matrix\02. Squares in Matrix.csproj", "{EF8AA0BC-2F9B-4030-8EBD-4CF83BCA9163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Maximal Sum", "..\02. Multidimensional Arrays\02. Multidimensional Arrays - Exercise\03. Maximal Sum\03. Maximal Sum.csproj", "{1493B586-8D97-40C0-8089-E323CAE1E713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Matrix Shuffling", "..\02. Multidimensional Arrays\02. Multidimensional Arrays - Exercise\04. Matrix Shuffling\04. Matrix Shuffling.csproj", "{A5A61DED-5ED8-4903-A916-D3B94DAF8774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Snake Moves", "..\02. Multidimensional Arrays\02. Multidimensional Arrays - Exercise\05. Snake Moves\05. Snake Moves.csproj", "{19CE5565-5C85-468E-B7E1-0969A97F42E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Jagged Array Manipulator", "..\02. Multidimensional Arrays\02. Multidimensional Arrays - Exercise\06. Jagged Array Manipulator\06. Jagged Array Manipulator.csproj", "{10E48BEB-FD37-4555-9E36-8F14BF8E6296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Knight Game", "..\02. Multidimensional Arrays\02. Multidimensional Arrays - Exercise\07. Knight Game\07. Knight Game.csproj", "{FA9AF4E9-DDE7-4370-9836-E9A423F09935}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,6 +121,34 @@ Global
 		{B56E3A0E-4B74-477E-82F3-F943EDC55453}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B56E3A0E-4B74-477E-82F3-F943EDC55453}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B56E3A0E-4B74-477E-82F3-F943EDC55453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11267E83-D166-444D-A65B-D0263695928A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11267E83-D166-444D-A65B-D0263695928A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11267E83-D166-444D-A65B-D0263695928A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11267E83-D166-444D-A65B-D0263695928A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF8AA0BC-2F9B-4030-8EBD-4CF83BCA9163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8AA0BC-2F9B-4030-8EBD-4CF83BCA9163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8AA0BC-2F9B-4030-8EBD-4CF83BCA9163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8AA0BC-2F9B-4030-8EBD-4CF83BCA9163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1493B586-8D97-40C0-8089-E323CAE1E713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1493B586-8D97-40C0-8089-E323CAE1E713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1493B586-8D97-40C0-8089-E323CAE1E713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1493B586-8D97-40C0-8089-E323CAE1E713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5A61DED-5ED8-4903-A916-D3B94DAF8774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A61DED-5ED8-4903-A916-D3B94DAF8774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A61DED-5ED8-4903-A916-D3B94DAF8774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A61DED-5ED8-4903-A916-D3B94DAF8774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CE5565-5C85-468E-B7E1-0969A97F42E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CE5565-5C85-468E-B7E1-0969A97F42E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CE5565-5C85-468E-B7E1-0969A97F42E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CE5565-5C85-468E-B7E1-0969A97F42E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E48BEB-FD37-4555-9E36-8F14BF8E6296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E48BEB-FD37-4555-9E36-8F14BF8E6296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E48BEB-FD37-4555-9E36-8F14BF8E6296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E48BEB-FD37-4555-9E36-8F14BF8E6296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9AF4E9-DDE7-4370-9836-E9A423F09935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9AF4E9-DDE7-4370-9836-E9A423F09935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9AF4E9-DDE7-4370-9836-E9A423F09935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9AF4E9-DDE7-4370-9836-E9A423F09935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,6 +163,13 @@ Global
 		{F6D8B97C-24C5-4DE9-95A7-59C76A57C35B} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 		{B2F130BB-1191-4BB6-964B-3634F6C3A534} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 		{81002AC8-48EA-4726-9FD5-B5D011ACF43A} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{932A55FF-A3E1-478C-A78E-A0879B4553D4} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{9CEBA63D-C79A-4B00-9667-5E1EEDAD6F25} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{84A9CEEB-5BC9-4876-8F05-C06CA5E4BCC6} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{BA309C91-8823-4046-8764-DD806F2C6DE9} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{16B5210E-B9A6-4806-ADED-ED9E9ECCC2DE} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{3C5C1F0D-CD0D-4632-91C7-14E381532F89} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{B56E3A0E-4B74-477E-82F3-F943EDC55453} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E46D805-615E-4167-A940-C1828AAFA70D}
