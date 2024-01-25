@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net8.0\refint\03. Largest 3 Numbers.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\net8.0\ref\03. Largest 3 Numbers.dll
