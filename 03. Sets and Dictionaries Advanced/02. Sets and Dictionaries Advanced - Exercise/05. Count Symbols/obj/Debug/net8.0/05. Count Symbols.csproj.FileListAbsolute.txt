@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net8.0\05. Count Symbols.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net8.0\05. Count Symbols.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net8.0\05. Count Symbols.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net8.0\05. Count Symbols.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\bin\Debug\net8.0\05. Count Symbols.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net8.0\refint\05. Count Symbols.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\obj\Debug\net8.0\ref\05. Count Symbols.dll
