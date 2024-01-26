@@ -67,17 +67,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Parking Lot", "..\03. S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. SoftUni Party", "..\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\08. SoftUni Party\08. SoftUni Party.csproj", "{6324DF45-AD19-46FB-B68F-5E63237BFD04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Unique Usernames", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\01. Unique Usernames.csproj", "{1F1DC2E0-F42B-4F05-AAD0-A34CABBA5329}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Unique Usernames", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\01. Unique Usernames.csproj", "{1F1DC2E0-F42B-4F05-AAD0-A34CABBA5329}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sets of Elements", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\02. Sets of Elements.csproj", "{E54A724A-BFA6-4C69-A82A-13D58CBEF155}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Sets of Elements", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\02. Sets of Elements.csproj", "{E54A724A-BFA6-4C69-A82A-13D58CBEF155}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Periodic Table", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\03. Periodic Table.csproj", "{5ED89212-4903-4BC8-AFF7-031BF42C0562}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Periodic Table", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\03. Periodic Table\03. Periodic Table.csproj", "{5ED89212-4903-4BC8-AFF7-031BF42C0562}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Even Times", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\04. Even Times\04. Even Times.csproj", "{B76D4C71-8977-4282-9F9A-C5CF50B4DD31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Even Times", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\04. Even Times\04. Even Times.csproj", "{B76D4C71-8977-4282-9F9A-C5CF50B4DD31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Count Symbols", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\05. Count Symbols.csproj", "{CDA8203D-E890-4DE8-AE58-8638F751BFEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Count Symbols", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\05. Count Symbols\05. Count Symbols.csproj", "{CDA8203D-E890-4DE8-AE58-8638F751BFEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Wardrobe", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\06. Wardrobe.csproj", "{7C35C58C-A407-4996-AA69-83941DBCA20B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Wardrobe", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\06. Wardrobe.csproj", "{7C35C58C-A407-4996-AA69-83941DBCA20B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. City by Continent and Country", "..\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\05. City by Continent and Country\05. City by Continent and Country.csproj", "{47FE6962-BEFB-40AD-ADEC-54B308FB0B0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -233,6 +235,10 @@ Global
 		{7C35C58C-A407-4996-AA69-83941DBCA20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C35C58C-A407-4996-AA69-83941DBCA20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C35C58C-A407-4996-AA69-83941DBCA20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FE6962-BEFB-40AD-ADEC-54B308FB0B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FE6962-BEFB-40AD-ADEC-54B308FB0B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FE6962-BEFB-40AD-ADEC-54B308FB0B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FE6962-BEFB-40AD-ADEC-54B308FB0B0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -269,6 +275,7 @@ Global
 		{A1224D32-510B-4902-8295-E4A43452B653} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 		{E812D1FC-EC59-4E84-8B6F-E85FD0E93058} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 		{6324DF45-AD19-46FB-B68F-5E63237BFD04} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{47FE6962-BEFB-40AD-ADEC-54B308FB0B0A} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E46D805-615E-4167-A940-C1828AAFA70D}
