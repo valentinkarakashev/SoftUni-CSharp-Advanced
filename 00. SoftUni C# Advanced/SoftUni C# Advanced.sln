@@ -77,7 +77,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Count Symbols", "..\03.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Wardrobe", "..\03. Sets and Dictionaries Advanced\02. Sets and Dictionaries Advanced - Exercise\06. Wardrobe\06. Wardrobe.csproj", "{7C35C58C-A407-4996-AA69-83941DBCA20B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. City by Continent and Country", "..\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\05. City by Continent and Country\05. City by Continent and Country.csproj", "{AEAECEF8-083C-4C68-B71A-24911CE1093C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. City by Continent and Country", "..\03. Sets and Dictionaries Advanced\01. Sets and Dictionaries Advanced - Lab\05. City by Continent and Country\05. City by Continent and Country.csproj", "{AEAECEF8-083C-4C68-B71A-24911CE1093C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Odd Lines", "..\04. Streams, Files and Directories\01. Streams, Files and Directories - Lab\01. Odd Lines\01. Odd Lines.csproj", "{3777C82D-A2FD-46A5-9AC4-AE7EA5ABD456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Line Numbers", "..\04. Streams, Files and Directories\01. Streams, Files and Directories - Lab\02. Line Numbers\02. Line Numbers.csproj", "{9D54AA70-062B-4D56-8917-2E9DC5BF05B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Count", "..\04. Streams, Files and Directories\01. Streams, Files and Directories - Lab\03. Word Count\03. Word Count.csproj", "{C3E4B95E-E43D-41CE-82A9-2AF5403FDA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Merge Text Files", "..\04. Streams, Files and Directories\01. Streams, Files and Directories - Lab\04. Merge Text Files\04. Merge Text Files.csproj", "{F8D090EF-EEC4-4BC4-B6D6-63CE29BF92A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Extract Special Bytes", "..\04. Streams, Files and Directories\01. Streams, Files and Directories - Lab\05. Extract Special Bytes\05. Extract Special Bytes.csproj", "{99FB7732-87BA-4B44-8E8E-4FCD192FE499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Split, Merge Binary Files", "..\04. Streams, Files and Directories\01. Streams, Files and Directories - Lab\06. Split, Merge Binary Files\06. Split, Merge Binary Files.csproj", "{1A615E1B-719E-469F-AA11-6367D8C758C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Folder Size", "..\04. Streams, Files and Directories\01. Streams, Files and Directories - Lab\07. Folder Size\07. Folder Size.csproj", "{46793520-5F05-458C-8155-1520AA7B1FEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -233,6 +247,34 @@ Global
 		{AEAECEF8-083C-4C68-B71A-24911CE1093C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEAECEF8-083C-4C68-B71A-24911CE1093C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEAECEF8-083C-4C68-B71A-24911CE1093C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3777C82D-A2FD-46A5-9AC4-AE7EA5ABD456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3777C82D-A2FD-46A5-9AC4-AE7EA5ABD456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3777C82D-A2FD-46A5-9AC4-AE7EA5ABD456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3777C82D-A2FD-46A5-9AC4-AE7EA5ABD456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D54AA70-062B-4D56-8917-2E9DC5BF05B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D54AA70-062B-4D56-8917-2E9DC5BF05B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D54AA70-062B-4D56-8917-2E9DC5BF05B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D54AA70-062B-4D56-8917-2E9DC5BF05B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E4B95E-E43D-41CE-82A9-2AF5403FDA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E4B95E-E43D-41CE-82A9-2AF5403FDA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E4B95E-E43D-41CE-82A9-2AF5403FDA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E4B95E-E43D-41CE-82A9-2AF5403FDA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D090EF-EEC4-4BC4-B6D6-63CE29BF92A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D090EF-EEC4-4BC4-B6D6-63CE29BF92A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D090EF-EEC4-4BC4-B6D6-63CE29BF92A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D090EF-EEC4-4BC4-B6D6-63CE29BF92A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FB7732-87BA-4B44-8E8E-4FCD192FE499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FB7732-87BA-4B44-8E8E-4FCD192FE499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FB7732-87BA-4B44-8E8E-4FCD192FE499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FB7732-87BA-4B44-8E8E-4FCD192FE499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A615E1B-719E-469F-AA11-6367D8C758C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A615E1B-719E-469F-AA11-6367D8C758C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A615E1B-719E-469F-AA11-6367D8C758C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A615E1B-719E-469F-AA11-6367D8C758C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46793520-5F05-458C-8155-1520AA7B1FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46793520-5F05-458C-8155-1520AA7B1FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46793520-5F05-458C-8155-1520AA7B1FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46793520-5F05-458C-8155-1520AA7B1FEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -268,6 +310,12 @@ Global
 		{A1224D32-510B-4902-8295-E4A43452B653} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 		{E812D1FC-EC59-4E84-8B6F-E85FD0E93058} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 		{6324DF45-AD19-46FB-B68F-5E63237BFD04} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{1F1DC2E0-F42B-4F05-AAD0-A34CABBA5329} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{E54A724A-BFA6-4C69-A82A-13D58CBEF155} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{5ED89212-4903-4BC8-AFF7-031BF42C0562} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{B76D4C71-8977-4282-9F9A-C5CF50B4DD31} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{CDA8203D-E890-4DE8-AE58-8638F751BFEA} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{7C35C58C-A407-4996-AA69-83941DBCA20B} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 		{AEAECEF8-083C-4C68-B71A-24911CE1093C} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
