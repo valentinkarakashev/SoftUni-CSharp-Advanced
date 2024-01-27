@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\bin\Debug\net8.0\02. Stacks and Queues - Exercise.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\bin\Debug\net8.0\02. Stacks and Queues - Exercise.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\bin\Debug\net8.0\02. Stacks and Queues - Exercise.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\bin\Debug\net8.0\02. Stacks and Queues - Exercise.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\bin\Debug\net8.0\02. Stacks and Queues - Exercise.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\obj\Debug\net8.0\02. Stacks and Queues - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\obj\Debug\net8.0\02. Stacks and Queues - Exercise.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\obj\Debug\net8.0\02. Stacks and Queues - Exercise.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\obj\Debug\net8.0\02. Stacks and Queues - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\obj\Debug\net8.0\02. Stacks and Queues - Exercise.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\obj\Debug\net8.0\02. Stacks and Queues - Exercise.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\obj\Debug\net8.0\refint\02. Stacks and Queues - Exercise.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\obj\Debug\net8.0\02. Stacks and Queues - Exercise.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\obj\Debug\net8.0\02. Stacks and Queues - Exercise.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\02. Stacks and Queues - Exercise\obj\Debug\net8.0\ref\02. Stacks and Queues - Exercise.dll
