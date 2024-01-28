@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\bin\Debug\net6.0\03. Copy Binary File.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\obj\Debug\net6.0\refint\03. Copy Binary File.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\obj\Debug\net6.0\03. Copy Binary File.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\obj\Debug\net6.0\ref\03. Copy Binary File.dll

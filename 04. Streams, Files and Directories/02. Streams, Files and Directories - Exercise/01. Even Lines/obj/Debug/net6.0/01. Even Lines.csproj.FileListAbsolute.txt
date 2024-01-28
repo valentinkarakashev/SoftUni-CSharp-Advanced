@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\bin\Debug\net6.0\01. Even Lines.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\bin\Debug\net6.0\01. Even Lines.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\bin\Debug\net6.0\01. Even Lines.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\bin\Debug\net6.0\01. Even Lines.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\bin\Debug\net6.0\01. Even Lines.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\obj\Debug\net6.0\refint\01. Even Lines.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\obj\Debug\net6.0\01. Even Lines.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\obj\Debug\net6.0\ref\01. Even Lines.dll

@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\obj\Debug\net6.0\refint\06. Zip and Extracts.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\obj\Debug\net6.0\ref\06. Zip and Extracts.dll
