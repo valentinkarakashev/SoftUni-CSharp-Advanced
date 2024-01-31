@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net8.0\refint\01. Sort Even Numbers.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\net8.0\ref\01. Sort Even Numbers.dll

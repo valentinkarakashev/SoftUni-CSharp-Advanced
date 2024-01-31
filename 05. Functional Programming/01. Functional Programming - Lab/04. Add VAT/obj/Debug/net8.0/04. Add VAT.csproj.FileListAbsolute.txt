@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\bin\Debug\net8.0\04. Add VAT.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\bin\Debug\net8.0\04. Add VAT.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\bin\Debug\net8.0\04. Add VAT.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\bin\Debug\net8.0\04. Add VAT.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\bin\Debug\net8.0\04. Add VAT.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\obj\Debug\net8.0\04. Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\obj\Debug\net8.0\04. Add VAT.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\obj\Debug\net8.0\04. Add VAT.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\obj\Debug\net8.0\04. Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\obj\Debug\net8.0\04. Add VAT.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\obj\Debug\net8.0\04. Add VAT.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\obj\Debug\net8.0\refint\04. Add VAT.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\obj\Debug\net8.0\04. Add VAT.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\obj\Debug\net8.0\04. Add VAT.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\obj\Debug\net8.0\ref\04. Add VAT.dll

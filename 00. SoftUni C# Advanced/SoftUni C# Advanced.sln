@@ -93,17 +93,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Split, Merge Binary Fil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Folder Size", "..\04. Streams, Files and Directories\01. Streams, Files and Directories - Lab\07. Folder Size\07. Folder Size.csproj", "{46793520-5F05-458C-8155-1520AA7B1FEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Even Lines", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\01. Even Lines.csproj", "{2141E65A-DADD-452F-9457-B43C5F14D215}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Even Lines", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\01. Even Lines\01. Even Lines.csproj", "{2141E65A-DADD-452F-9457-B43C5F14D215}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Line Numbers", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\02. Line Numbers\02. Line Numbers.csproj", "{48DD7E6E-1D7B-4F69-A27E-EF676CFEF1B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Line Numbers", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\02. Line Numbers\02. Line Numbers.csproj", "{48DD7E6E-1D7B-4F69-A27E-EF676CFEF1B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Copy Binary File", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\03. Copy Binary File.csproj", "{1E1106C5-1B0D-474D-9386-099FB7D38AF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Copy Binary File", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\03. Copy Binary File\03. Copy Binary File.csproj", "{1E1106C5-1B0D-474D-9386-099FB7D38AF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Directory Traversal", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\04. Directory Traversal\04. Directory Traversal.csproj", "{237FDDF7-1F06-4BFE-B289-78CCBE7A2165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Directory Traversal", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\04. Directory Traversal\04. Directory Traversal.csproj", "{237FDDF7-1F06-4BFE-B289-78CCBE7A2165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Copy Directory", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\05. Copy Directory\05. Copy Directory.csproj", "{574E0BA7-A8B9-4881-8CC8-03D184ABB3F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Copy Directory", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\05. Copy Directory\05. Copy Directory.csproj", "{574E0BA7-A8B9-4881-8CC8-03D184ABB3F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Zip and Extracts", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\06. Zip and Extracts.csproj", "{22737AAA-179E-4D29-A0A6-08A4118F7875}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Zip and Extracts", "..\04. Streams, Files and Directories\02. Streams, Files and Directories - Exercise\06. Zip and Extracts\06. Zip and Extracts.csproj", "{22737AAA-179E-4D29-A0A6-08A4118F7875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sort Even Numbers", "..\05. Functional Programming\01. Functional Programming - Lab\01. Sort Even Numbers\01. Sort Even Numbers.csproj", "{3081656C-1257-4FAF-BEEB-AE9FE89276AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sum Numbers", "..\05. Functional Programming\01. Functional Programming - Lab\02. Sum Numbers\02. Sum Numbers.csproj", "{564CC863-E37E-40F3-AC79-40FBE3A916BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Count Uppercase Words", "..\05. Functional Programming\01. Functional Programming - Lab\03. Count Uppercase Words\03. Count Uppercase Words.csproj", "{D57DF0E6-3637-4169-9DB4-78C576D31F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Add VAT", "..\05. Functional Programming\01. Functional Programming - Lab\04. Add VAT\04. Add VAT.csproj", "{2406B025-944E-4145-9856-DED2BF4880B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Filter By Age", "..\05. Functional Programming\01. Functional Programming - Lab\05. Filter By Age\05. Filter By Age.csproj", "{F669C35C-5FB3-4909-BAFF-E19073A6545D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -311,6 +321,26 @@ Global
 		{22737AAA-179E-4D29-A0A6-08A4118F7875}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22737AAA-179E-4D29-A0A6-08A4118F7875}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22737AAA-179E-4D29-A0A6-08A4118F7875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3081656C-1257-4FAF-BEEB-AE9FE89276AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3081656C-1257-4FAF-BEEB-AE9FE89276AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3081656C-1257-4FAF-BEEB-AE9FE89276AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3081656C-1257-4FAF-BEEB-AE9FE89276AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564CC863-E37E-40F3-AC79-40FBE3A916BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564CC863-E37E-40F3-AC79-40FBE3A916BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564CC863-E37E-40F3-AC79-40FBE3A916BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564CC863-E37E-40F3-AC79-40FBE3A916BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57DF0E6-3637-4169-9DB4-78C576D31F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57DF0E6-3637-4169-9DB4-78C576D31F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57DF0E6-3637-4169-9DB4-78C576D31F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57DF0E6-3637-4169-9DB4-78C576D31F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2406B025-944E-4145-9856-DED2BF4880B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2406B025-944E-4145-9856-DED2BF4880B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2406B025-944E-4145-9856-DED2BF4880B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2406B025-944E-4145-9856-DED2BF4880B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F669C35C-5FB3-4909-BAFF-E19073A6545D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F669C35C-5FB3-4909-BAFF-E19073A6545D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F669C35C-5FB3-4909-BAFF-E19073A6545D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F669C35C-5FB3-4909-BAFF-E19073A6545D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -360,6 +390,12 @@ Global
 		{99FB7732-87BA-4B44-8E8E-4FCD192FE499} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 		{1A615E1B-719E-469F-AA11-6367D8C758C4} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 		{46793520-5F05-458C-8155-1520AA7B1FEB} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{2141E65A-DADD-452F-9457-B43C5F14D215} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{48DD7E6E-1D7B-4F69-A27E-EF676CFEF1B9} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{1E1106C5-1B0D-474D-9386-099FB7D38AF8} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{237FDDF7-1F06-4BFE-B289-78CCBE7A2165} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{574E0BA7-A8B9-4881-8CC8-03D184ABB3F8} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{22737AAA-179E-4D29-A0A6-08A4118F7875} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E46D805-615E-4167-A940-C1828AAFA70D}
