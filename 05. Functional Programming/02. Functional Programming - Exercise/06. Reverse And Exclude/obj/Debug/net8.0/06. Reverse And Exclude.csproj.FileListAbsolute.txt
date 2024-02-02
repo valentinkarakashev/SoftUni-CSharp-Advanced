@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net8.0\06. Reverse And Exclude.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net8.0\06. Reverse And Exclude.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net8.0\06. Reverse And Exclude.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net8.0\06. Reverse And Exclude.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\net8.0\06. Reverse And Exclude.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\refint\06. Reverse And Exclude.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\06. Reverse And Exclude.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\05. Functional Programming\02. Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\net8.0\ref\06. Reverse And Exclude.dll
