@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\bin\Debug\net6.0\CustomTuple.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\bin\Debug\net6.0\CustomTuple.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\bin\Debug\net6.0\CustomTuple.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\bin\Debug\net6.0\CustomTuple.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\bin\Debug\net6.0\CustomTuple.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\obj\Debug\net6.0\CustomTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\obj\Debug\net6.0\CustomTuple.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\obj\Debug\net6.0\CustomTuple.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\obj\Debug\net6.0\CustomTuple.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\obj\Debug\net6.0\CustomTuple.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\obj\Debug\net6.0\CustomTuple.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\obj\Debug\net6.0\refint\CustomTuple.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\obj\Debug\net6.0\CustomTuple.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\obj\Debug\net6.0\CustomTuple.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Tuple\obj\Debug\net6.0\ref\CustomTuple.dll

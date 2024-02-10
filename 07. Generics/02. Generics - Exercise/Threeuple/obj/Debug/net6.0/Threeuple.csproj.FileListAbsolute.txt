@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\bin\Debug\net6.0\Threeuple.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\obj\Debug\net6.0\refint\Threeuple.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\obj\Debug\net6.0\Threeuple.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\Threeuple\obj\Debug\net6.0\ref\Threeuple.dll

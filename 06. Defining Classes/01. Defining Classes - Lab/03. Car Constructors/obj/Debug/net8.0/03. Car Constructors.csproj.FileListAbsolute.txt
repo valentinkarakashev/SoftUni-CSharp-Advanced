@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\bin\Debug\net8.0\03. Car Constructors.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\bin\Debug\net8.0\03. Car Constructors.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\bin\Debug\net8.0\03. Car Constructors.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\bin\Debug\net8.0\03. Car Constructors.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\bin\Debug\net8.0\03. Car Constructors.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\obj\Debug\net8.0\refint\03. Car Constructors.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\03. Car Constructors\obj\Debug\net8.0\ref\03. Car Constructors.dll

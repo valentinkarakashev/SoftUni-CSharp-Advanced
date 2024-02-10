@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\bin\Debug\net6.0\02. Car Extension.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\refint\02. Car Extension.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\02. Car Extension.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\02. Car Extension\obj\Debug\net6.0\ref\02. Car Extension.dll

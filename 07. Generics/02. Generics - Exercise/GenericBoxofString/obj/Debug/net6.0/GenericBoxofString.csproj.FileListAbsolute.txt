@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\bin\Debug\net6.0\GenericBoxofString.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\obj\Debug\net6.0\refint\GenericBoxofString.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\obj\Debug\net6.0\GenericBoxofString.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\GenericBoxofString\obj\Debug\net6.0\ref\GenericBoxofString.dll

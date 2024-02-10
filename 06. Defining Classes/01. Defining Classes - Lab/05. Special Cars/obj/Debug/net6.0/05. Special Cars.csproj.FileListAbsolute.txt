@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\bin\Debug\net6.0\05. Special Cars.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\refint\05. Special Cars.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\05. Special Cars.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\05. Special Cars\obj\Debug\net6.0\ref\05. Special Cars.dll

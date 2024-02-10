@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\refint\CustomLinkedList.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\ref\CustomLinkedList.dll

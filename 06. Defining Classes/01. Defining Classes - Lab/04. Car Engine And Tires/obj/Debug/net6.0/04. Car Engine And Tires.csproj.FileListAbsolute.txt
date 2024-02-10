@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\refint\04. Car Engine And Tires.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\06. Defining Classes\01. Defining Classes - Lab\04. Car Engine And Tires\obj\Debug\net6.0\ref\04. Car Engine And Tires.dll

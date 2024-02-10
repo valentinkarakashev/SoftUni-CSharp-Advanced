@@ -1,0 +1,15 @@
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.exe
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.deps.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.runtimeconfig.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\bin\Debug\net6.0\CustomDoublyLinkedList.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.AssemblyInfo.cs
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.sourcelink.json
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\refint\CustomDoublyLinkedList.dll
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.pdb
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\CustomDoublyLinkedList.genruntimeconfig.cache
+C:\Users\valen\Documents\GitHub\SoftUni-CSharp-Advanced\07. Generics\02. Generics - Exercise\CustomLinkedList\obj\Debug\net6.0\ref\CustomDoublyLinkedList.dll
