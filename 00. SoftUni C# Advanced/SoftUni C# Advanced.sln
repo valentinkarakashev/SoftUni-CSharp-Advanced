@@ -143,23 +143,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxOfT", "..\07. Generics\0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericScale", "..\07. Generics\01. Generics - Lab\GenericScale\GenericScale.csproj", "{367D8861-F437-48B1-85F4-6D0F0DF950FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBoxOfString", "..\07. Generics\02. Generics - Exercise\GenericBoxofString\GenericBoxOfString.csproj", "{73A1D7BC-63CF-471E-97FE-6552EFBB4855}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBoxOfString", "..\07. Generics\02. Generics - Exercise\GenericBoxofString\GenericBoxOfString.csproj", "{73A1D7BC-63CF-471E-97FE-6552EFBB4855}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBoxOfInteger", "..\07. Generics\02. Generics - Exercise\GenericBoxOfInteger\GenericBoxOfInteger.csproj", "{8DB3B123-2365-4905-AE67-D350F5C4D24C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBoxOfInteger", "..\07. Generics\02. Generics - Exercise\GenericBoxOfInteger\GenericBoxOfInteger.csproj", "{8DB3B123-2365-4905-AE67-D350F5C4D24C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSwapMethodString", "..\07. Generics\02. Generics - Exercise\GenericSwapMethodString\GenericSwapMethodString.csproj", "{8CB2D481-54A1-429D-B89A-241000D2C20C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericSwapMethodString", "..\07. Generics\02. Generics - Exercise\GenericSwapMethodString\GenericSwapMethodString.csproj", "{8CB2D481-54A1-429D-B89A-241000D2C20C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSwapMethodInteger", "..\07. Generics\02. Generics - Exercise\GenericSwapMethodInteger\GenericSwapMethodInteger.csproj", "{11CB187E-556B-403C-91AC-837D739D1654}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericSwapMethodInteger", "..\07. Generics\02. Generics - Exercise\GenericSwapMethodInteger\GenericSwapMethodInteger.csproj", "{11CB187E-556B-403C-91AC-837D739D1654}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCountMethodString", "..\07. Generics\02. Generics - Exercise\GenericCountMethodString\GenericCountMethodString.csproj", "{3A0D7F89-2A46-4B30-86B9-D36F6D01437E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericCountMethodString", "..\07. Generics\02. Generics - Exercise\GenericCountMethodString\GenericCountMethodString.csproj", "{3A0D7F89-2A46-4B30-86B9-D36F6D01437E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCountMethodDouble", "..\07. Generics\02. Generics - Exercise\GenericCountMethodDouble\GenericCountMethodDouble.csproj", "{2AFAE337-F89C-4F12-9B24-C10C4D63CF0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericCountMethodDouble", "..\07. Generics\02. Generics - Exercise\GenericCountMethodDouble\GenericCountMethodDouble.csproj", "{2AFAE337-F89C-4F12-9B24-C10C4D63CF0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "..\07. Generics\02. Generics - Exercise\Tuple\Tuple.csproj", "{CAE7F03E-D2B9-44D0-8A35-D8F91D1788A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuple", "..\07. Generics\02. Generics - Exercise\Tuple\Tuple.csproj", "{CAE7F03E-D2B9-44D0-8A35-D8F91D1788A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threeuple", "..\07. Generics\02. Generics - Exercise\Threeuple\Threeuple.csproj", "{53E0E15E-81AF-4682-8267-BB9399EC2BE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Threeuple", "..\07. Generics\02. Generics - Exercise\Threeuple\Threeuple.csproj", "{53E0E15E-81AF-4682-8267-BB9399EC2BE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDoublyLinkedList", "..\07. Generics\02. Generics - Exercise\CustomLinkedList\CustomDoublyLinkedList.csproj", "{B726473B-CD18-4ACA-B9E7-35F2329D13B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomDoublyLinkedList", "..\07. Generics\02. Generics - Exercise\CustomLinkedList\CustomDoublyLinkedList.csproj", "{B726473B-CD18-4ACA-B9E7-35F2329D13B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorsAndComparators", "..\08. Iterators and Comparators\01. Iterators and Comparators - Lab\IteratorsAndComparators\IteratorsAndComparators.csproj", "{5B1AA3D5-C0CE-45A8-8073-496309D13111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorsAndComparators", "..\08. Iterators and Comparators\02. Iterators and Comparators - Exercise\IteratorsAndComparators\IteratorsAndComparators.csproj", "{D12C39F4-0109-4358-AF60-21216DB86683}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -479,6 +483,14 @@ Global
 		{B726473B-CD18-4ACA-B9E7-35F2329D13B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B726473B-CD18-4ACA-B9E7-35F2329D13B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B726473B-CD18-4ACA-B9E7-35F2329D13B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B1AA3D5-C0CE-45A8-8073-496309D13111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1AA3D5-C0CE-45A8-8073-496309D13111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1AA3D5-C0CE-45A8-8073-496309D13111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1AA3D5-C0CE-45A8-8073-496309D13111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12C39F4-0109-4358-AF60-21216DB86683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12C39F4-0109-4358-AF60-21216DB86683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12C39F4-0109-4358-AF60-21216DB86683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12C39F4-0109-4358-AF60-21216DB86683}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -553,6 +565,16 @@ Global
 		{BC9856CC-7C4F-4022-BCB1-454AFF3BBB44} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 		{937C06EC-FA8A-4374-98CA-34C8632D9BDE} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 		{367D8861-F437-48B1-85F4-6D0F0DF950FC} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{73A1D7BC-63CF-471E-97FE-6552EFBB4855} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{8DB3B123-2365-4905-AE67-D350F5C4D24C} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{8CB2D481-54A1-429D-B89A-241000D2C20C} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{11CB187E-556B-403C-91AC-837D739D1654} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{3A0D7F89-2A46-4B30-86B9-D36F6D01437E} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{2AFAE337-F89C-4F12-9B24-C10C4D63CF0C} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{CAE7F03E-D2B9-44D0-8A35-D8F91D1788A9} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{53E0E15E-81AF-4682-8267-BB9399EC2BE9} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{B726473B-CD18-4ACA-B9E7-35F2329D13B9} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
+		{5B1AA3D5-C0CE-45A8-8073-496309D13111} = {75677B62-B667-46C9-BAA6-95D2DDAC6201}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E46D805-615E-4167-A940-C1828AAFA70D}
